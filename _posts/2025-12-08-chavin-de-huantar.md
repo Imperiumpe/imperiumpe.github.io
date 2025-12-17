@@ -5,7 +5,7 @@ author: imperium
 date: 2025-12-08 11:33:00 +0800
 categories: [entretenimiento, cine]
 tags: [cine, chavin de huantar]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:
