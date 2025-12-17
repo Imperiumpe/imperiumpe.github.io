@@ -14,7 +14,7 @@ image:
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-Hace unos días fui a ver Chavín de Huantar con toda mi familia, y para serles honestos, todos quedamos sorprendidos por la capacidad del director de contar una historia compleja de una forma dinámica y frontal. Sin caer en las siempre presentes tendencias del cine nacional, tales como: la contemplación andina, el chiste barato y la vulgaridad como recurso narrativo.
+Hace unos días fui a ver Chavín de Hcuantar con toda mi familia, y para serles honestos, todos quedamos sorprendidos por la capacidad del director de contar una historia compleja de una forma dinámica y frontal. Sin caer en las siempre presentes tendencias del cine nacional, tales como: la contemplación andina, el chiste barato y la vulgaridad como recurso narrativo.
 
 Quizás su punto más debil es la completa omisión de los aspectos políticos e ideológicos del conflicto. Por una parte no se le dió la importancia debida a la ideología terrorista; el comunismo, el cual desde hace más de 100 años juega a la ruleta rusa con las vidas de las personas. Todo con la pobre excusa de lograr lo que ellos consideran “un mundo más justo y equitativo”, claro, bajo una dictadura autoritaria y genocida que impide las libertades más básicas del 99.9% de sus subditos. Por otro lado, se omitió la indiscutiblemente protagónica participación de personajes que hoy se consideran, no solamente incómodos, sino radioactivos para la sociedad contemporanea post propaganda caviar: Juan Luis Cipriani y Alberto Fujimori.
 
