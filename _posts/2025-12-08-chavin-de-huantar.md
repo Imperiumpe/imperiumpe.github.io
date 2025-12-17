@@ -27,9 +27,12 @@ Sin más que agregar: Mary está enferma.
 Chavín de Huantar 7.3/10
 
 
-{% include embed/video.html src='{https://www.youtube.com/watch?v=eRQyHKtHLcg}' %}
+{% include embed/{youtube}.html id='{8Dd7KRpKeaE}' %}
 
 cacadawddwdwawddawdwa
+
+
+
 
 
 dwadwadwa
