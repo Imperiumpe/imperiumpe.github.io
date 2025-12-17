@@ -1,6 +1,6 @@
 ---
 title: Chavín de Huantar (2025)
-description: Chavín de Huantar es todo lo que no esperaba del cine nacional.
+description: La película de Diego de León es prueba de que el cine peruano puede dejar atras el indigenismo y la vulgaridad
 author: imperium
 date: 2025-12-08 11:33:00 +0800
 categories: [entretenimiento, cine]
@@ -22,17 +22,3 @@ Finalmente, ha llegado a mi conocimiento que cierto grupo de viudas del t32roris
 Sin más que agregar: Mary está enferma.
 
 Chavín de Huantar 7.3/10
-
-
-
-
-cacadawddwdwawddawdwa
-
-
-
-
-
-dwadwadwa
-dwa
-dwa
-dwawd
