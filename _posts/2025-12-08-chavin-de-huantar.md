@@ -1,6 +1,6 @@
 ---
 title: Chavín de Huantar (2025)
-description: 
+description: Chavín de Huantar es todo lo que no esperaba del cine nacional.
 author: imperium
 date: 2025-12-08 11:33:00 +0800
 categories: [entretenimiento, cine]
