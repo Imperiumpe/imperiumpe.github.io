@@ -1,10 +1,10 @@
 ---
 title: Chavín de Huantar (2025)
 description: 
-author: cotes
+author: imperium
 date: 2025-12-08 11:33:00 +0800
-categories: [cine, cultura]
-tags: [cine]
+categories: [entretenimiento, cine]
+tags: [cine, chavin de huantar]
 pin: true
 math: true
 mermaid: true
