@@ -8,10 +8,7 @@ tags: [cine, chavin de huantar, peru, terrorismo]
 pin: false
 math: true
 mermaid: true
-image:
-  path: assets/img/chavin.png
- 
-  alt: Chavin de Huantar - El Rescate del Siglo.
+
 ---
 
 Hace unos días fui a ver Chavín de Hcuantar con toda mi familia, y para serles honestos, todos quedamos sorprendidos por la capacidad del director de contar una historia compleja de una forma dinámica y frontal. Sin caer en las siempre presentes tendencias del cine nacional, tales como: la contemplación andina, el chiste barato y la vulgaridad como recurso narrativo.
@@ -27,7 +24,7 @@ Sin más que agregar: Mary está enferma.
 Chavín de Huantar 7.3/10
 
 
-{% include embed/{youtube}.html id='{8Dd7KRpKeaE}' %}
+
 
 cacadawddwdwawddawdwa
 
